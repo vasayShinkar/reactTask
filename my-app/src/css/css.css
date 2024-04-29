@@ -1,0 +1,23 @@
+body {
+    background-color: #444;
+    color: #fff;
+}
+
+.task {
+    background-color: #6b6b6b;
+    padding: 20px;
+    margin:  10px auto;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.task select {
+color: rgb(167, 167, 167);
+background: transparent;
+border: none;
+font-size: inherit;
+}
+
+#true {
+    background: #5c7b61;
+}
